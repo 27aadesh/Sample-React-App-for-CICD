@@ -1,3 +1,5 @@
+#Sample React App for CICD
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### How to check if the app is running?
