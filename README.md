@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### How to check if the app is running?
+
+1. Navigate to the App URL. If you see the below screen then the app is running correctly.
+
+![alt text](https://github.com/27aadesh/Sample-React-App-for-CICD/blob/master/screenshots/1.JPG)
+
 ## Available Scripts
 
 In the project directory, you can run:
