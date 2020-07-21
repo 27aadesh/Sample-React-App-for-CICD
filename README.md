@@ -1,4 +1,4 @@
-#Sample React App for CICD
+# Sample React App for CICD
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
